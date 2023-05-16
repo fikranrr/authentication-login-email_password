@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98436071095",
+    "project_id": "authentication-demo-c8edb",
+    "storage_bucket": "authentication-demo-c8edb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98436071095:android:abb44205dd937a8ffc5732",
+        "android_client_info": {
+          "package_name": "com.example.auth_login_regsiter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98436071095-18fcm8p6q1smd789po2bl48tfmbje517.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4KfLWRv7wO9DWceUid5f8y9g_eMTMKAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98436071095-18fcm8p6q1smd789po2bl48tfmbje517.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
